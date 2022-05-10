@@ -1,5 +1,5 @@
 # CS521_Project
-Video Poker implementation in Python
+Video Poker implementation in Python.
 
 The idea for my project is a Video Poker game based off of the casino archetype 'Jacks or Better'. The game is essentially Five Card Draw where the user plays against the house and payout is structured with rarer poker hands giving a larger payout than more common ones. Five Card Draw is a classic poker archetype where each player is dealt five cards and can discard any number of cards from their hand. They then get fresh cards from the deck equal to the number of the cards they discarded, such that they end up with five cards. Concerning the payout structure, single pairs only pay out if their value is that of Jacks or better. 
 
